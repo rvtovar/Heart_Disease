@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-## An analysis of varius medical features related to heart disease to determine Heart Disease
+## An analysis of various medical features related to heart disease to determine Heart Disease
 
 ### Rose Tovar
 

@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-## An analysis of various medical features related to heart disease to determine Heart Disease
+## An analysis of various medical features and how they relate to Heart Disease
 
 ### Rose Tovar
 

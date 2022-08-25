@@ -40,7 +40,7 @@ In this data we saw that one row contained multiple zeros and this removed. We a
 
 ### Model
 
-The final model recommended for this project is a KNN model. This model was chosen because it gave us the highest ROC curve with 94% on the testing data. Anther important aspect was that it had minimum False Negatives. This is important because we do not want to tell an individual that they do not have heart disease when they actually do. This model gaves us a precision of 92% and a recall of 88% for having heart disease which was in line with many of other models used in the project.
+The final model recommended for this project is a KNN model. This model was chosen because it gave us the highest ROC curve with 93% on the testing data. Anther important aspect was that it had minimum False Negatives. This is important because we do not want to tell an individual that they do not have heart disease when they actually do. This model gaves us a precision of 92% and a recall of 88% for having heart disease which was in line with many of other models used in the project.
 
 ### Recommendations
 

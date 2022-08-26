@@ -44,7 +44,7 @@ The final model recommended for this project is a KNN model. This model was chos
 
 ### Recommendations
 
-Reccomendations for this project would include talking to a subject matter expert on Heart Disease. This would be beneficial with Feature Engineering and determining what we could add as a feature or remove to better enhance the performance of the model.
+Recommendations for this project would include talking to a subject matter expert on Heart Disease. This would be beneficial with Feature Engineering and determining what we could add as a feature or remove to better enhance the performance of the model.
 
 ### Next Steps
 

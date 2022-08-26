@@ -8,7 +8,7 @@
 
 ### Objective
 
-This project took a look at various features related to heart disease so we can predict if a person has heart disease or not. Part 1 of the project looked at exploration of the data using univariate visualizations. Part 2 looked at running different classfication machien learning models to find which model gave us the best results in reducing false negatives. Part 3 had us looking at using feature engineering techinques like PCA to possibly improve the results.
+This project took a look at various features related to heart disease so we can predict if a person has heart disease or not. Part 1 of the project looked at exploration of the data using univariate visualizations. Part 2 looked at running different classfication machine learning models to find which model gave us the best results in reducing false negatives. Part 3 had us looking at using feature engineering techinques like PCA to possibly improve the results.
 
 ### Data
 

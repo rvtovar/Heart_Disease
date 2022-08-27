@@ -48,4 +48,4 @@ Recommendations for this project would include talking to a subject matter exper
 
 ### Next Steps
 
-Next steps include reaching out to a subject matter expert in the field and going over my results and figuring out what feature engineering that should be looked at to better enahcne the model and create features that may be a better fit in determining if an individual has heart disease or not.
+Next steps include reaching out to a subject matter expert in the field and going over my results and figuring out what feature engineering that should be looked at to better enhance the model and create features that may be a better fit in determining if an individual has heart disease or not.

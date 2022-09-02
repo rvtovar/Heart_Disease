@@ -30,13 +30,13 @@ In this data we saw that one row contained multiple zeros and this removed. We a
 
 ![Average Old Peak](AverageOldPeakHeartDisease.png)
 
-> To understand this graph we first must understand what Oldpeak is. Oldpeak is the depression of the ST Segment on an EKG. This shows us that indiviudals with heart disease have on average a olpeak of around 1.2. While those wtihout oldpeak have an oldpeak around 0.4. This tells us that oldpeak is can be explored as prominent feature in predicting heart disease in some indivudals.
+> To understand this graph we first must understand what Oldpeak is. Oldpeak is the depression of the ST Segment on an EKG. This shows us that individuals with heart disease have on average a oldpeak of around 1.2. While those without oldpeak have an oldpeak around 0.4. This tells us that oldpeak is can be explored as prominent feature in predicting heart disease in some individuals
 
 #### Average Oldpeak for ST Slope
 
 ![Average Oldpeak for St Slope](AvgOldpeakForSTSlope.png)
 
-> This plot futher explores oldpeak; which is the depression of the ST Segment on an EKG. This time we evaluated the the average Oldpeak based on the type of ST Segment the indidvual has. A lower Oldpeak is seen for those without heart disease
+> This plot further explores oldpeak; which is the depression of the ST Segment on an EKG. This time we evaluated the the average Oldpeak based on the type of ST Segment the individual has. A lower Oldpeak is seen for those without heart disease
 
 ### Model
 
